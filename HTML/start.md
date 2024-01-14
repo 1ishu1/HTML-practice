@@ -3,13 +3,13 @@
     
 
 
-```java
+```c++
 
-    public class HelloWorld {
+#include <iostream>
 
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-    }
+int main() {
+  std::cout << "Hello, world!";
+  return 0;
+}
    
 ```
