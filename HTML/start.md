@@ -1,9 +1,9 @@
 # start
     1.first day 
     
-    
 
-    ```java
+
+```java
 
     public class HelloWorld {
 
@@ -12,4 +12,4 @@
     }
     }
    
-    ```
+```
